@@ -1,7 +1,7 @@
 
 # Todo Application - Node.js with MySQL
 
-## Project Overview
+## Project - Overview
 
 This project is a **Todo Application** built using **Node.js**, **Express.js**, and **MySQL**. The application allows users to manage their daily tasks by adding, viewing, updating, and deleting todos.
 The project demonstrates how to build a simple RESTful API with full CRUD (Create, Read, Update, Delete) operations while integrating it with a MySQL database.
